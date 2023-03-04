@@ -1,0 +1,33 @@
+//VERSION EN QUE SE DESARROLLO.
+
+VERSION NODE: 16.13.1 (Estoy utilizando nvm, controlador de versiones para poder instalar esa version).
+
+
+NOMBRE DE BASE DE DATOS: disconodejs, crean la base de datos con ese nombre e importan la base de 
+datos que va dentro de la carpeta para que pueda funcionar el backend.
+
+
+
+
+// COMO CORRER EL PROYECTO.
+PRIMERO ABRIR LA BASE DE DATOS: Deben de tener la base de datos abierta (corriendo).
+
+ABRIR TERMINAL DE FRONTEND: Abren la ruta del frontend y se corre con: ng s o ng serve.
+
+ABRIR TERMINAL PROYECTOCOMPLETO: Abren la ruta que se llama ProyectoCompleto y se corre con: npm start.
+
+
+
+
+// EN CASO DE NO SERVIR:
+
+Instalar la version de node requerida(16.13.1).
+
+A cada ruta o terminal (frontend, ProyectoCompleto) darle npm install
+En frontend instalar: npm install -g @angular/cli
+Y en caso de que no sirva angular material instalar: ng add @angular/material  solo si no funciona el angular material.
+
+
+
+// EN CASO DE SERVIR: 
+Para ingresar como administrador la cuenta es: admin@gmail.com contraseña: admin
